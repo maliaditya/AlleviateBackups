@@ -1,0 +1,22 @@
+{
+  "openTabIds": [
+    "90713316-878a-4645-b6df-feea4c1dd5e0",
+    "db64194d-99dc-440c-90dc-ff385ac6526f",
+    "2225192a-2a12-44da-98c6-ce17c75b16e7",
+    "c33e2aa0-e7e0-4f47-a87c-86086f30ea8d"
+  ],
+  "pinnedIds": [],
+  "pinnedResourceIds": [],
+  "activeId": "c33e2aa0-e7e0-4f47-a87c-86086f30ea8d",
+  "resources": [
+    {
+      "id": "resource-scratchpad",
+      "name": "Scratchpad",
+      "parentId": null
+    }
+  ],
+  "selectedResourceId": "resource-scratchpad",
+  "expandedResourceIds": [
+    "resource-scratchpad"
+  ]
+}
