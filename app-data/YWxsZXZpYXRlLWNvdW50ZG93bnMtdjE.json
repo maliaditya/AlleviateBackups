@@ -1,0 +1,4 @@
+{
+  "key": "alleviate-countdowns-v1",
+  "value": "[{\"id\":\"92322e74-8a0f-46d4-a2a4-c281c983f5e8\",\"name\":\"Aadesh Birthday\",\"date\":\"1998-07-30\",\"kind\":\"countdown\"},{\"id\":\"cedae893-1c36-4c5a-9ea7-295242a67054\",\"name\":\"asdsd\",\"date\":\"2026-10-20\",\"kind\":\"countdown\",\"reminder\":\"on-day\",\"repeat\":\"none\",\"display\":\"always-smart-list\"}]"
+}
