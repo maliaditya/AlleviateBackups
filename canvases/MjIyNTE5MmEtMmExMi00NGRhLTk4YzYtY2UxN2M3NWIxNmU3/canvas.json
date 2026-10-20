@@ -1,0 +1,48 @@
+{
+  "id": "2225192a-2a12-44da-98c6-ce17c75b16e7",
+  "name": "sdsdsdsd",
+  "updatedAt": 1792500388814,
+  "elements": [
+    {
+      "type": "text",
+      "version": 2,
+      "versionNonce": 1383793092,
+      "isDeleted": true,
+      "id": "cY-2QgZ3B6NeZUwTlEfXj",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 294,
+      "y": 273,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 10,
+      "height": 25,
+      "seed": 357163716,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1792493565567,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "",
+      "lineHeight": 1.25,
+      "baseline": 21
+    }
+  ],
+  "appState": {
+    "theme": "dark",
+    "viewBackgroundColor": "#ffffff"
+  },
+  "resourceId": "resource-scratchpad"
+}
