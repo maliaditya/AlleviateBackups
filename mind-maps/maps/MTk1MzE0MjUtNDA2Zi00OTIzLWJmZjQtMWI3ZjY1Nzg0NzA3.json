@@ -1,0 +1,8 @@
+{
+  "map": {
+    "id": "19531425-406f-4923-bff4-1b7f65784707",
+    "title": "Untitled mind map",
+    "updatedAt": 1792437776503
+  },
+  "xml": "<map name=\"19531425-406f-4923-bff4-1b7f65784707\" theme=\"prism\" layout=\"mindmap\" version=\"tango\"><topic central=\"true\" text=\"You\" shape=\"rounded rectangle\" id=\"1\"><topic position=\"87,-24\" order=\"0\" text=\"sdsd\" shape=\"line\" id=\"2\"/><topic position=\"-95,-24\" order=\"1\" text=\"sdsdsd\" id=\"3\"><topic position=\"-186,-22\" order=\"0\" text=\"sdsd\" id=\"6\"/></topic><topic position=\"95,24\" order=\"2\" text=\"sdsdsd\" id=\"4\"/><topic position=\"-108,24\" order=\"3\" id=\"5\"/></topic></map>"
+}
