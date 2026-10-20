@@ -1,0 +1,115 @@
+{
+  "id": "db64194d-99dc-440c-90dc-ff385ac6526f",
+  "name": "Untitled canvas",
+  "updatedAt": 1792493707651,
+  "elements": [
+    {
+      "type": "ellipse",
+      "version": 24,
+      "versionNonce": 609622949,
+      "isDeleted": false,
+      "id": "iVfFLHNMUUZYuw23L8F0q",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 531,
+      "y": 235,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 697,
+      "height": 388,
+      "seed": 960798213,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [],
+      "updated": 1792492571845,
+      "link": null,
+      "locked": false
+    },
+    {
+      "type": "rectangle",
+      "version": 21,
+      "versionNonce": 583175883,
+      "isDeleted": false,
+      "id": "YAkVRnql_mack7INqq8vv",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": -3444.5,
+      "y": -2507.3333333333335,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 2610,
+      "height": 3450,
+      "seed": 797949899,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [],
+      "updated": 1792492593449,
+      "link": null,
+      "locked": false
+    },
+    {
+      "type": "line",
+      "version": 21,
+      "versionNonce": 1143139909,
+      "isDeleted": false,
+      "id": "l7q9CPsvhbztWqwwbYv0z",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 148.8333333333353,
+      "y": -1904.714285714285,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 335,
+      "height": 2699.999999999999,
+      "seed": 1119852555,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "boundElements": [],
+      "updated": 1792492617673,
+      "link": null,
+      "locked": false,
+      "startBinding": null,
+      "endBinding": null,
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          335,
+          2699.999999999999
+        ]
+      ]
+    }
+  ],
+  "appState": {
+    "theme": "dark",
+    "viewBackgroundColor": "#ffffff"
+  },
+  "resourceId": "resource-scratchpad",
+  "fileMeta": {}
+}
